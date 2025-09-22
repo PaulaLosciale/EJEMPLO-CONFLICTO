@@ -1,3 +1,4 @@
 linea 1
+linea 2 modificada en rama
 linea 2 diferente en main
 linea 3
